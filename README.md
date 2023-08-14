@@ -26,6 +26,7 @@ In this project, we will create a smart contract using Solidity and deploy it to
 https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/e39c042b-4ce9-46be-ace3-d8b9c08a9b9e
 
 
+
 ![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/deploy.PNG)
 
 
@@ -40,6 +41,9 @@ https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/1277
 https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/6055ad6b-852a-4501-a11e-a5fa4ecb6f68
 
 
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/deposit_transaction.PNG)
+
+
 
 ### 4. Withdrawing & Terminal Output
 
@@ -48,5 +52,34 @@ https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/1277
 
 
 https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/7fe8b70f-6f2f-4ea6-bce5-96251bde7b95
+
+
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/withdraw_accountone.PNG)
+
+
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/withdraw_accountTwo.PNG)
+
+
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/lastWithdraw.PNG)
+
+
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/contract_balance_after_transaction.PNG)
+
+
+## Technology Used
+
+[![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/v0.8.7/)
+
+[![Remix-IDE](https://img.shields.io/badge/Remix_IDE-1989b9?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/)
+
+---
+
+## Installation Guide
+
+### Remix IDE recommended for contract interaction
+
+[![Remix-IDE](https://img.shields.io/badge/Remix_IDE-1989b9?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/)
+
+---
 
 
