@@ -1,5 +1,7 @@
 # Module-20-Smart-Contracts-and-Solidity
 
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/what_is_smart_contract.avif)
+
 
 
 ## 1. Overview of the Project
@@ -19,11 +21,32 @@ In this project, we will create a smart contract using Solidity and deploy it to
 ### 1. Compile & Deploy
 
 
-### 2. Depositing
+
+
+https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/e39c042b-4ce9-46be-ace3-d8b9c08a9b9e
+
+
+![image](https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/blob/main/ExecutionResults/deploy.PNG)
+
+
+### 2. Set Account Address - OwnerOne & OwnerTwo
+
+https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/b169396c-c399-4284-ac5b-e54aedcf58b2
 
 
 
-### 3. Withdrawing & Terminal Output
+### 3. Depositing
 
+https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/6055ad6b-852a-4501-a11e-a5fa4ecb6f68
+
+
+
+### 4. Withdrawing & Terminal Output
+
+
+https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/a120748b-b6b0-44e7-b2ca-d1e341623658
+
+
+https://github.com/malika0410/Module-20-Smart-Contracts-and-Solidity/assets/127723380/7fe8b70f-6f2f-4ea6-bce5-96251bde7b95
 
 
